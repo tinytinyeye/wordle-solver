@@ -36,6 +36,7 @@ const LetterResult = ({
             <Box
                 sx={{
                     display: 'flex',
+                    alignItems: 'center',
                     backgroundColor: variantToBackgroundColor[variant],
                     border: '2px solid #3a3a3c',
                     width: '1.5rem',
