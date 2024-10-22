@@ -13,10 +13,12 @@
     "@emotion/styled": "^11.13.0",
     "@fontsource/roboto": "^5.1.0",
     "@mui/icons-material": "^6.1.4",
+    "@mui/lab": "^6.0.0-beta.12",
     "@mui/material": "^6.1.4",
     "next": "15.0.0",
     "react": "19.0.0-rc-65a56d0e-20241020",
-    "react-dom": "19.0.0-rc-65a56d0e-20241020"
+    "react-dom": "19.0.0-rc-65a56d0e-20241020",
+    "swr": "^2.2.5"
   },
   "devDependencies": {
     "@types/node": "^20",

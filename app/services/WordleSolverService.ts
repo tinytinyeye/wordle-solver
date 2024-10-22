@@ -1,4 +1,4 @@
-import { Some } from '../utils/typeUtils';
+import { Some } from '@/utils/typeUtils';
 import dictionary from './dictionary.json';
 
 export interface GetWordleSuggestionsRawQuery {
